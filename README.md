@@ -1,1 +1,1 @@
-# vut-fit
+# Projects from studies at VUT FIT

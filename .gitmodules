@@ -1,0 +1,66 @@
+[submodule "vut-fit-isj-6"]
+	path = ISJ project 6
+	url = https://github.com/adokitkat/vut-fit-isj-6
+[submodule "vut-fit-ivs-2"]
+	path = IVS project 2
+	url = https://github.com/adokitkat/vut-fit-ivs-2
+[submodule "vut-fit-iss"]
+	path = ISS
+	url = https://github.com/adokitkat/vut-fit-iss
+[submodule "vut-fit-ipk-1"]
+	path = IPK project 1
+	url = https://github.com/adokitkat/vut-fit-ipk-1
+[submodule "vut-fit-ios-1"]
+	path = IOS project 1
+	url = https://github.com/adokitkat/vut-fit-ios-1
+[submodule "vut-fit-icp"]
+	path = ICP
+	url = https://github.com/adokitkat/vut-fit-icp
+[submodule "vut-fit-ipk-2"]
+	path = IPK project 2
+	url = https://github.com/adokitkat/vut-fit-ipk-2
+[submodule "vut-fit-ipp-1"]
+	path = IPP project 1
+	url = https://github.com/adokitkat/vut-fit-ipp-1
+[submodule "vut-fit-ids"]
+	path = IDS
+	url = https://github.com/adokitkat/vut-fit-ids
+[submodule "vut-fit-ial"]
+	path = IAL
+	url = https://github.com/adokitkat/vut-fit-ial
+[submodule "vut-fit-ili"]
+	path = ILI
+	url = https://github.com/adokitkat/vut-fit-ili
+[submodule "vut-fit-isa"]
+	path = ISA
+	url = https://github.com/adokitkat/vut-fit-isa
+[submodule "vut-fit-iis"]
+	path = IIS
+	url = https://github.com/adokitkat/vut-fit-iis
+[submodule "vut-fit-ipp-2"]
+	path = IPP project 2
+	url = https://github.com/adokitkat/vut-fit-ipp-2
+[submodule "vut-fit-imp"]
+	path = IMP
+	url = https://github.com/adokitkat/vut-fit-imp
+[submodule "vut-fit-inc"]
+	path = INC
+	url = https://github.com/adokitkat/vut-fit-inc
+[submodule "vut-fit-ity"]
+	path = ITY
+	url = https://github.com/adokitkat/vut-fit-ity
+[submodule "vut-fit-ims"]
+	path = IMS (2021-2022)
+	url = https://github.com/adokitkat/vut-fit-ims
+[submodule "vut-fit-vypa"]
+	path = VYPa
+	url = https://github.com/adokitkat/vut-fit-vypa
+[submodule "vut-fit-ian"]
+	path = IAN
+	url = https://github.com/adokitkat/vut-fit-ian
+[submodule "vut-fit-inp"]
+	path = INP
+	url = https://github.com/adokitkat/vut-fit-inp
+[submodule "vut-fit-ims-old"]
+	path = IMS (2020-2021)
+	url = https://github.com/adokitkat/vut-fit-ims-old
