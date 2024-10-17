@@ -70,3 +70,6 @@
 [submodule "vut-fit-ims-old"]
 	path = IMS (2020-2021)
 	url = https://github.com/adokitkat/vut-fit-ims-old
+[submodule "vut-fit-ius"]
+	path = IUS project
+	url = https://github.com/adokitkat/vut-fit-ius
