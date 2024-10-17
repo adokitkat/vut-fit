@@ -73,3 +73,6 @@
 [submodule "vut-fit-ius"]
 	path = IUS project
 	url = https://github.com/adokitkat/vut-fit-ius
+[submodule "vut-fit-itu"]
+	path = ITU projects
+	url = https://github.com/adokitkat/vut-fit-itu
