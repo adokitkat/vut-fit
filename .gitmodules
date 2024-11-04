@@ -76,3 +76,6 @@
 [submodule "vut-fit-itu"]
 	path = ITU projects
 	url = https://github.com/adokitkat/vut-fit-itu
+[submodule "vut-fit-msp"]
+	path = MSP
+	url = https://github.com/adokitkat/vut-fit-msp
